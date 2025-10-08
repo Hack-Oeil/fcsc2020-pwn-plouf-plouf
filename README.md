@@ -15,7 +15,7 @@ Origine : [Plouf Plouf](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-plo
 
 
 #### tentez 
-> nc plouf-plouf.cyrhades.com:4000
+> nc plouf-plouf.cyrhades.fr:4000
 
 
 -----------

@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur plouf-plouf.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur plouf-plouf.cyrhades.fr!
 
-*****:~$ nc plouf-plouf.cyrhades.com:4000
+*****:~$ nc plouf-plouf.cyrhades.fr:4000
 
 Bonne chance !
